@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595467418671",
+    "project_id": "gdg-event-be6d0",
+    "storage_bucket": "gdg-event-be6d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595467418671:android:188d07641cd47790a2dada",
+        "android_client_info": {
+          "package_name": "com.example.gddg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINb8ryZZ9SlLW9dy-7-z7D883EdWy3jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
